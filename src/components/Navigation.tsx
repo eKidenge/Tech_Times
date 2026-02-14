@@ -7,7 +7,7 @@ const categories = [
   'Venture',
   'Apple',
   'AI',
-  'Apps',
+  'News',
   'Events',
   'Podcasts',
   'Newsletters'
